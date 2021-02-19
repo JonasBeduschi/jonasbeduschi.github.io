@@ -4,8 +4,37 @@
 
 ### AI
 
-[Genetic Neural Network](https://github.com/JonasBeduschi/Genetic-Neural-Network)
+Genetic Neural Network
+<br>
+[Open source project](https://github.com/JonasBeduschi/Genetic-Neural-Network)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Android and Jam Games
+
+Cursiva
+<br>
+Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.TimelessGames.Cursiva)
+<img src="images/Cursiva.png?raw=true" width="640" height="360"/>
+
+---
+Catmosphere
+<br>
+Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.Catmosphere)
+<img src="images/Catmosphere.png?raw=true" width="512" height="250"/>
+
+---
+No Thing Is Broken
+<br>
+[Open source](https://github.com/JonasBeduschi/CBJAM2021) and available on [Itch.io](https://professionalclapper.itch.io/no-thing-is-broken)
+<img src="images/Owl.png?raw=true" width="640" height="360"/>
+
+---
+Flappy Plane
+<br>
+[Open source](https://github.com/JonasBeduschi/Flappy-Plane) and available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
+<img src="images/FlappyScreens.jpg?raw=true" width="640" height="360"/>
 
 ---
 
@@ -24,33 +53,6 @@ PDF(/pdf/sample_presentation.pdf)
 
 ---
 
-### Android and Jam Games
-
-Cursiva
-<br>
-Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.TimelessGames.Cursiva)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-Catmosphere
-<br>
-Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.Catmosphere)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[No Thing Is Broken](https://github.com/JonasBeduschi/CBJAM2021)
-<br>
-Available on [Itch.io](https://professionalclapper.itch.io/no-thing-is-broken)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Flappy Plane](https://github.com/JonasBeduschi/Flappy-Plane)
-<br>
-Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
-<img src="images/FlappyScreens.jpg?raw=true"/>
-
----
-
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -60,9 +62,6 @@ Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.Jona
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
+<br>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
