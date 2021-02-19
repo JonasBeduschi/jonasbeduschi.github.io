@@ -27,22 +27,26 @@ PDF(/pdf/sample_presentation.pdf)
 ### Android and Jam Games
 
 Cursiva
-[GooglePlay](https://play.google.com/store/apps/details?id=com.TimelessGames.Cursiva)
+<br>
+Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.TimelessGames.Cursiva)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 Catmosphere
-[GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.Catmosphere)
+<br>
+Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.Catmosphere)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [No Thing Is Broken](https://github.com/JonasBeduschi/CBJAM2021)
-[Itch.io](https://professionalclapper.itch.io/no-thing-is-broken)
+<br>
+Available on [Itch.io](https://professionalclapper.itch.io/no-thing-is-broken)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Flappy Plane](https://github.com/JonasBeduschi/Flappy-Plane)
-[GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
+<br>
+Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
 <img src="images/FlappyScreens.jpg?raw=true"/>
 
 ---
