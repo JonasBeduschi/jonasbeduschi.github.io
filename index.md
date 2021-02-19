@@ -16,7 +16,7 @@ Genetic Neural Network
 Cursiva
 <br>
 Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.TimelessGames.Cursiva)
-<img src="images/Cursiva.png?raw=true" width="640" height="360"/>
+<img src="images/Cursiva.png?raw=true" width="512" height="288"/>
 
 ---
 Catmosphere
@@ -28,13 +28,13 @@ Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.Jona
 No Thing Is Broken
 <br>
 [Open source](https://github.com/JonasBeduschi/CBJAM2021) and available on [Itch.io](https://professionalclapper.itch.io/no-thing-is-broken)
-<img src="images/Owl.png?raw=true" width="640" height="360"/>
+<img src="images/Owl.png?raw=true" width="512" height="288"/>
 
 ---
 Flappy Plane
 <br>
 [Open source](https://github.com/JonasBeduschi/Flappy-Plane) and available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
-<img src="images/FlappyScreens.jpg?raw=true" width="640" height="360"/>
+<img src="images/FlappyScreens.jpg?raw=true" width="512" height="288"/>
 
 ---
 
