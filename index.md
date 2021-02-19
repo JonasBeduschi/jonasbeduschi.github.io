@@ -43,7 +43,7 @@ Catmosphere
 ---
 [Flappy Plane](https://github.com/JonasBeduschi/Flappy-Plane)
 [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/FlappyScreens.jpg?raw=true"/>
 
 ---
 
