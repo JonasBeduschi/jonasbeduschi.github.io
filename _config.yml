@@ -1,17 +1,17 @@
-title: Jonas Beduschi # your name (or website title) here
-logo: "/images/ProfilePicture.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Jonas Beduschi
+logo: "/images/ProfilePicture.png?raw=true"
+description: >
   Hello!
   <br>
-  I am a game developer with experience in every game production areas, but main focusing on design and programming.
+  I am a game developer with experience in every game production areas, but focusing on design and programming.
   <br>
   Experienced in Unity, I have great interests in game AI, neural networks, and unit testing.
   <br><br>
   <a href="https://www.linkedin.com/in/jonas-beduschi/">View My LinkedIn Profile</a>
   <br>
-  <a href="https://professionalclapper.itch.io/">View My itch.io Profile</a>
+  <a href="https://professionalclapper.itch.io/">View My Itch.io Profile</a>
   <br>
   <a href="https://play.google.com/store/apps/developer?id=Jonas+Beduschi">View My GooglePlay Profile</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0
