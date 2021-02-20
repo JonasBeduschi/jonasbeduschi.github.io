@@ -7,7 +7,7 @@
 Genetic Neural Network
 <br>
 [Open source project](https://github.com/JonasBeduschi/Genetic-Neural-Network)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--  <img src="images/dummy_thumbnail.jpg?raw=true"/>  -->
 
 ---
 
@@ -42,7 +42,7 @@ Flappy Plane
 
 Board Game
 <img src="images/MakingOfBoardGame.gif?raw=true" width="480" height="270"/>
-
+<!--
 ---
 PDF(/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -63,5 +63,6 @@ PDF(/pdf/sample_presentation.pdf)
 
 ---
 <br>
+-->
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
