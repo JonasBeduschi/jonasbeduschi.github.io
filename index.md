@@ -39,30 +39,29 @@ No Thing Is Broken (2021) is a narrative game made in a couple of days for the f
 <br>
 Flappy Plane (2021) is remake of the famous game made just for fun and training.
 <img src="images/FlappyScreens.jpg?raw=true" width="512" height="288"/>
-
 ---
 
 ### WebGL Educational Games
 
 #### Board Game
 <img src="images/MakingOfBoardGame.gif?raw=true" width="480" height="270"/>
-<!---
+
 ---
-PDF(/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--- PDF(/pdf/sample_presentation.pdf)
+<!--- <img src="images/dummy_thumbnail.jpg?raw=true"/>
+--- 
+<!--- [Project 3 Title](http://example.com/)
+<!--- <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
---->
+<!--- ### Category Name 2
+<!--- - [Project 1 Title](http://example.com/)
+<!--- - [Project 2 Title](http://example.com/)
+<!--- - [Project 3 Title](http://example.com/)
+<!--- - [Project 4 Title](http://example.com/)
+<!--- - [Project 5 Title](http://example.com/)
+
 ---
 <br>
 ---
