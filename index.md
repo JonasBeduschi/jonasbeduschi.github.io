@@ -46,7 +46,7 @@ Flappy Plane (2021) is remake of the famous game made just for fun and training.
 
 #### Board Game
 <img src="images/MakingOfBoardGame.gif?raw=true" width="480" height="270"/>
-<!--
+<!---
 ---
 PDF(/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -62,7 +62,7 @@ PDF(/pdf/sample_presentation.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
--->
+--->
 ---
 <br>
 ---
