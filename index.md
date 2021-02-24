@@ -5,9 +5,7 @@
 ### AI
 
 #### Genetic Neural Network
-<br>
 [Open source project](https://github.com/JonasBeduschi/Genetic-Neural-Network)
-<!--  <img src="images/dummy_thumbnail.jpg?raw=true"/>  -->
 
 ---
 
