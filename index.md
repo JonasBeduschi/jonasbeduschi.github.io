@@ -37,11 +37,11 @@ No Thing Is Broken (2021) is a narrative game made in a couple of days for the f
 <br>
 Flappy Plane (2021) is remake of the famous game made just for fun and training.
 <img src="images/FlappyScreens.jpg?raw=true" width="512" height="288"/>
----
 
+---
 ### WebGL Educational Games
-#### Available on [YouTube](https://youtu.be/5AfWOE1xLdY)
-<img src="images/MakingOfBoardGame.gif?raw=true" width="400" height="230"/>
+Available on [YouTube](https://youtu.be/5AfWOE1xLdY)
+<img src="images/MakingOfBoardGame.gif?raw=true" width="480" height="270"/>
 
 <br>
 <br>
