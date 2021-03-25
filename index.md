@@ -41,7 +41,7 @@ Flappy Plane (2021) is remake of the famous game made just for fun and training.
 ---
 ### WebGL Educational Games
 Available on [YouTube](https://youtu.be/5AfWOE1xLdY)
-<img src="images/MakingOfBoardGame.gif?raw=true" width="480" height="270"/>
+[<img src="images/MakingOfBoardGame.gif?raw=true" width="480" height="270"/>](https://youtu.be/5AfWOE1xLdY)
 
 <br>
 <br>
