@@ -18,7 +18,7 @@ Learning project using neural networks and genetic algorithm intended as a frame
 #### Cursiva
 Available on [GooglePlay](https://play.google.com/store/apps/details?id=com.TimelessGames.Cursiva)
 <br>
-Cursiva (2017) is an educational narrative game for small Brazilian children, helping them learning English. It was made during college as an extra project along with two other students.
+Cursiva (2017) is an educational narrative game for Brazilian children (aged 5+), helping them learning English. It was made during college as an extra project along with two other students.
 <br>
 <img src="images/Cursiva.png?raw=true" width="512" height="288"/>
 
@@ -42,7 +42,7 @@ No Thing Is Broken (2021) is a narrative game made in a couple of days for the f
 #### Flappy Plane
 [Open source](https://github.com/JonasBeduschi/Flappy-Plane) and available on [GooglePlay](https://play.google.com/store/apps/details?id=com.JonasBeduschi.FlappyPlane)
 <br>
-Flappy Plane (2021) is remake of the famous game made just for fun and training.
+Flappy Plane (2021) is a remake of the famous game Flappy Bird made just for fun and training.
 <br>
 <img src="images/FlappyScreens.jpg?raw=true" width="512" height="288"/>
 
